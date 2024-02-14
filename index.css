@@ -130,6 +130,11 @@ body{
     padding-top: 30px;
     line-height: 45px;
     font-size: 1.5rem;
+    color: #fff !important;
+    background: linear-gradient(45deg, #bd7d9b, #e1dfe4);
+    -webkit-background-clip: text;
+    background-clip:text ;
+    -webkit-text-fill-color: transparent;
   }
 
   .love-content h3{
