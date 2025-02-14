@@ -46,12 +46,12 @@ document.querySelector('.luv-button').addEventListener('click', (e) =>{
    
 document.querySelector('.love-button button:first-child').addEventListener('click', () => {
     let message = "I%20will%20my%20baby%F0%9F%A5%B9%F0%9F%A4%8D%20I%20love%20you%20so%20much%F0%9F%A4%8D%20thanks%20for%20always%20been%20there%20for%20me.%0A%0AHappy%20Valentine%20babe%F0%9F%A4%AD%F0%9F%AB%B6%F0%9F%8F%BD";
-    let whatsappLink = "https://wa.me/+2348119907323?text=" + message; 
+    let whatsappLink = "https://wa.me/+2348050255377?text=" + message; 
     window.open(whatsappLink, '_blank');
 });
 
 document.querySelector('.love-button button:last-child').addEventListener('click', () => {
     let message = "I%20am%20so%20sorry%20I%20can't%20be%20your%20val%F0%9F%92%94%F0%9F%98%B9%F0%9F%98%B9%F0%9F%98%B9";
-    let whatsappLink = "https://wa.me/+2348119907323?text=" + message;
+    let whatsappLink = "https://wa.me/+2348050255377?text=" + message;
     window.open(whatsappLink, '_blank');
 });
